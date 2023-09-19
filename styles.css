@@ -25,7 +25,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    background-color: url('https://i.pinimg.com/originals/e5/af/9b/e5af9b2b3cdfe82b473c2fdf61c967b8.jpg'); /* Semi-transparent white background */
 }
 
 .form-container {
